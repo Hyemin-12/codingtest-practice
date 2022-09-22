@@ -1,0 +1,3 @@
+﻿  varTest.c
+E:\코딩테스트\CodingTest2022PC\varTest\varTest.c(7,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  varTest.vcxproj -> E:\코딩테스트\CodingTest2022PC\x64\Debug\varTest.exe

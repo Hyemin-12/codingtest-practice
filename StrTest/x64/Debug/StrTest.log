@@ -1,0 +1,5 @@
+﻿  strTest.c
+E:\코딩테스트\CodingTest2022PC\StrTest\strTest.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+E:\코딩테스트\CodingTest2022PC\StrTest\strTest.c(9,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+E:\코딩테스트\CodingTest2022PC\StrTest\strTest.c(7,7): warning C4101: 's3' :참조되지 않은 지역 변수입니다.
+  StrTest.vcxproj -> E:\코딩테스트\CodingTest2022PC\x64\Debug\StrTest.exe

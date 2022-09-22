@@ -1,0 +1,4 @@
+﻿  2_7.c
+E:\코딩테스트\CodingTest2022PC\2_7\2_7.c(7,27): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\코딩테스트\CodingTest2022PC\2_7\2_7.c(9,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2_7.vcxproj -> E:\코딩테스트\CodingTest2022PC\x64\Debug\2_7.exe
