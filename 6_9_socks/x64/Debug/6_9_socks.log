@@ -1,0 +1,3 @@
+﻿  6_9_socks.c
+E:\코딩테스트\CodingTest2022PC\6_9_socks\6_9_socks.c(9,8): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  6_9_socks.vcxproj -> E:\코딩테스트\CodingTest2022PC\x64\Debug\6_9_socks.exe
